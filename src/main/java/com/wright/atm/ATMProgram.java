@@ -43,7 +43,7 @@ public class ATMProgram {
         }
 
         while(loopResponse.equalsIgnoreCase("Y"));
-
+        System.out.println( "Good Job!");
 }
 
     }
